@@ -29,3 +29,7 @@ node_modules
 .bowercomponents
 node
 target
+
+# .idea
+.idea/*
+*.iml
